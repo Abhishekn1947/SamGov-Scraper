@@ -80,6 +80,8 @@ Before using this project, ensure you have the following:
 
 - Open .env in a text editor and fill in the required values (see for details), to create an .env run `touch .env`
 
+- Must Have Firefox browser and coreesponding gecko driver for your pc specs (Mine is for an Apple macbook pro m3 max)
+
 ---
 
 **Run Script**: `Python Main.py`
