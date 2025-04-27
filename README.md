@@ -14,6 +14,8 @@ The system achieves up to **93% time savings** compared to manual collection met
 - Attachments
 - Key dates
 
+![diagram](https://github.com/user-attachments/assets/994b6ef2-e6e8-4ca7-a007-774c29b63121)
+
 ### 📚 Documentation
 
 - **Detailed System Documentation**: See `Automated Contract Scraping and Data Processing System.pdf` in the project directory
